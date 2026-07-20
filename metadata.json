@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-13T07:00:53Z",
+  "generated_at": "2026-07-20T06:58:41Z",
   "source": "Hagezi Pro Mini",
   "source_url": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro.mini-onlydomains.txt",
   "mirror_url": "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/pro.mini-onlydomains.txt",
-  "domain_count": 70727,
-  "sha256": "e17327bca750cdd441f0cd7e383f3aca2ee85fcf06fe03cd1f0622a13c17f37e"
+  "domain_count": 74278,
+  "sha256": "5c609b105fafc3611adc0fb1dce0190a8f1ff478311c8f0f48a86c85e4dffcd5"
 }
